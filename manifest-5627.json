@@ -15,6 +15,11 @@
             "sizes": "192x192"
         },
         {
+            "src": "/icon/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
             "src": "/icon/apple-icon-180x180-seochecker-manifest-5627.png",
             "type": "image/png",
             "sizes": "180x180"
