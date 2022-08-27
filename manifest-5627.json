@@ -3,7 +3,7 @@
     "name": "Noto - ToDo List",
     "lang": "en",
     "description": "Not Tomorrow - Noto ToDo List",
-    "start_url": "https://isikdev.github.io/noto/",
+    "start_url": "index.html",
     "background_color": "#ffffff",
     "theme_color": "#000000",
     "dir": "ltr",
